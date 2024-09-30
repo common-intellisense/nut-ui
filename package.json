@@ -7,12 +7,12 @@
   "author": "Simon He",
   "license": "MIT",
   "funding": "https://github.com/sponsors/Simon-He95",
-  "homepage": "https://github.com/common-intellisense/nut-ui4#readme",
+  "homepage": "https://github.com/common-intellisense/nut-ui#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/common-intellisense/nut-ui4.git"
+    "url": "git+https://github.com/common-intellisense/nut-ui.git"
   },
-  "bugs": "https://github.com/common-intellisense/nut-ui4/issues",
+  "bugs": "https://github.com/common-intellisense/nut-ui/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
