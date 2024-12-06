@@ -39,12 +39,13 @@
       "description": "选中底部展示样式 可选值 line、smile",
       "description_zh": "选中底部展示样式 可选值 line、smile"
     },
-    "swipeable4.0.3": {
+    "swipeable": {
       "default": "false",
       "value": "",
       "type": "boolean",
       "description": "是否开启手势左右滑动切换",
-      "description_zh": "是否开启手势左右滑动切换"
+      "description_zh": "是否开启手势左右滑动切换",
+      "version": "4.0.3"
     },
     "title-scroll": {
       "default": "false",

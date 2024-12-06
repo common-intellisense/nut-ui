@@ -21,7 +21,7 @@
       "description_zh": "内容，支持 HTML 和组件"
     },
     "teleport": {
-      "default": "\"body\"",
+      "default": "body",
       "value": "",
       "type": "string",
       "description": "指定挂载节点",
@@ -84,16 +84,17 @@
       "isRequired": false,
       "description_zh": "取消按钮是否默认关闭弹窗"
     },
-    "ok-auto-close4.2.1": {
+    "ok-auto-close": {
       "default": "true",
       "value": "",
       "type": "boolean",
       "description": "确认按钮是否默认关闭弹窗",
       "isRequired": false,
-      "description_zh": "确认按钮是否默认关闭弹窗"
+      "description_zh": "确认按钮是否默认关闭弹窗",
+      "version": "4.2.1"
     },
     "text-align": {
-      "default": "\"center\"",
+      "default": "center",
       "value": "",
       "type": "string",
       "description": "文字对齐方向，可选值同 css 的 text-align",
@@ -119,7 +120,7 @@
     "footer-direction": {
       "default": "horizontal",
       "value": "",
-      "type": "string",
+      "type": "horizontal / vertical",
       "description": "使用横纵方向 可选值 horizontal、vertical",
       "isRequired": false,
       "description_zh": "使用横纵方向 可选值 horizontal、vertical"

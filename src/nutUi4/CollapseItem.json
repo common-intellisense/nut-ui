@@ -91,9 +91,10 @@
       "description_zh": "设置标题下固定内容（不折叠）"
     },
     {
-      "name": "icon4.2.0",
+      "name": "icon",
       "description": "设置自定义图标",
-      "description_zh": "设置自定义图标"
+      "description_zh": "设置自定义图标",
+      "version": "4.2.0"
     }
   ],
   "filename": "CollapseItem",

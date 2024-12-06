@@ -75,9 +75,9 @@
       "description_zh": "标题"
     },
     "close-icon-position": {
-      "default": "\"top-right\"",
+      "default": "top-right",
       "value": "",
-      "type": "string",
+      "type": "top-left / top-right / bottom-left / bottom-right",
       "description": "取消按钮位置，继承 Popup 组件",
       "description_zh": "取消按钮位置，继承 Popup 组件"
     },

@@ -13,7 +13,7 @@
       "description_zh": "是否在选取文件后立即进行上传，false 时需要手动执行 ref submit 方法进行上传"
     },
     "name": {
-      "default": "\"file\"",
+      "default": "file",
       "value": "",
       "type": "string",
       "description": "input 标签 name 的名称，发到后台的文件参数名",
@@ -53,17 +53,17 @@
       "description_zh": "是否展示删除按钮"
     },
     "method": {
-      "default": "\"post\"",
+      "default": "post",
       "value": "",
-      "type": "string",
+      "type": "post / put",
       "description": "上传请求的 http method",
       "isRequired": false,
       "description_zh": "上传请求的 http method"
     },
     "list-type": {
-      "default": "\"picture\"",
+      "default": "picture",
       "value": "",
-      "type": "string",
+      "type": "picture / list",
       "description": "上传列表的内建样式，支持两种基础样式 picture、list",
       "isRequired": false,
       "description_zh": "上传列表的内建样式，支持两种基础样式 picture、list"
@@ -216,7 +216,7 @@
       {
         "name": "type",
         "detail": "文件类型",
-        "type": "\"image/jpeg\""
+        "type": "image/jpeg"
       },
       {
         "name": "formData",

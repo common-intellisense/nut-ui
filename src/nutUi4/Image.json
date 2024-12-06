@@ -74,12 +74,13 @@
       "description": "是否展示加载中图片",
       "description_zh": "是否展示加载中图片"
     },
-    "lazy-load4.0.8": {
+    "lazy-load": {
       "default": "false",
       "value": "",
       "type": "boolean",
       "description": "懒加载",
-      "description_zh": "懒加载"
+      "description_zh": "懒加载",
+      "version": "4.0.8"
     }
   },
   "link": "https://nutui.jd.com/h5/vue/4x/#/zh-CN/component/image",

@@ -90,7 +90,8 @@
       "type": "boolean",
       "description": "是否在失去焦点后，继续展示清除按钮，在设置 clearable 时生效",
       "isRequired": false,
-      "description_zh": "是否在失去焦点后，继续展示清除按钮，在设置 clearable 时生效"
+      "description_zh": "是否在失去焦点后，继续展示清除按钮，在设置 clearable 时生效",
+      "version": "4.0.2"
     },
     "clear-size": {
       "default": "14",
@@ -182,7 +183,8 @@
       "params": "event"
     },
     {
-      "name": "confirm4.2.1",
+      "name": "confirm",
+      "version": "4.2.1",
       "description": "点击软键盘确认时触发 ｜ event",
       "description_zh": "点击软键盘确认时触发 ｜ event",
       "params": ""
@@ -193,19 +195,22 @@
       "name": "focus",
       "description": "获取焦点",
       "params": "",
-      "description_zh": "获取焦点"
+      "description_zh": "获取焦点",
+      "version": "4.0.6"
     },
     {
       "name": "blur",
       "description": "失去焦点",
       "params": "",
-      "description_zh": "失去焦点"
+      "description_zh": "失去焦点",
+      "version": "4.0.6"
     },
     {
       "name": "select",
       "description": "选择文字",
       "params": "",
-      "description_zh": "选择文字"
+      "description_zh": "选择文字",
+      "version": "4.0.6"
     }
   ],
   "slots": [
@@ -217,12 +222,14 @@
     {
       "name": "left",
       "description": "自定义输入框左侧插槽内容",
-      "description_zh": "自定义输入框左侧插槽内容"
+      "description_zh": "自定义输入框左侧插槽内容",
+      "version": "4.0.1"
     },
     {
       "name": "right",
       "description": "自定义输入框右侧插槽内容",
-      "description_zh": "自定义输入框右侧插槽内容"
+      "description_zh": "自定义输入框右侧插槽内容",
+      "version": "4.0.1"
     }
   ],
   "filename": "Input",

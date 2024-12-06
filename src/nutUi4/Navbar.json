@@ -80,28 +80,32 @@
   "typeDetail": {},
   "events": [
     {
-      "name": "click-title4.1.5",
+      "name": "click-title",
       "description": "点击页面标题事件",
       "description_zh": "点击页面标题事件",
-      "params": "event:Event"
+      "params": "event:Event",
+      "version": "4.1.5"
     },
     {
-      "name": "click-icon4.1.5",
+      "name": "click-icon",
       "description": "点击页面标题 icon 事件",
       "description_zh": "点击页面标题 icon 事件",
-      "params": "event:Event"
+      "params": "event:Event",
+      "version": "4.1.5"
     },
     {
-      "name": "click-right4.1.5",
+      "name": "click-right",
       "description": "点击右侧按钮事件",
       "description_zh": "点击右侧按钮事件",
-      "params": "event:Event"
+      "params": "event:Event",
+      "version": "4.1.5"
     },
     {
-      "name": "click-back4.1.5",
+      "name": "click-back",
       "description": "点击左侧图标事件",
       "description_zh": "点击左侧图标事件",
-      "params": "event:Event"
+      "params": "event:Event",
+      "version": "4.1.5"
     },
     {
       "name": "on-click-title",

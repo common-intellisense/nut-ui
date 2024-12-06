@@ -69,7 +69,8 @@
       "name": "click",
       "description": "点击按钮时触发",
       "description_zh": "点击按钮时触发",
-      "params": "event: MouseEvent"
+      "params": "event: MouseEvent",
+      "required": true
     }
   ],
   "methods": [],

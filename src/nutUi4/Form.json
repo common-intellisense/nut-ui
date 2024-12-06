@@ -28,16 +28,18 @@
     "label-position": {
       "default": "left",
       "value": "",
-      "type": "top | left | right",
+      "type": "top / left / right",
       "description": "表单项 label 的位置",
-      "description_zh": "表单项 label 的位置"
+      "description_zh": "表单项 label 的位置",
+      "version": "4.2.4"
     },
     "star-position": {
       "default": "left",
       "value": "",
-      "type": "left | right",
+      "type": "left / right",
       "description": "必填表单项 label 的红色星标位置",
-      "description_zh": "必填表单项 label 的红色星标位置"
+      "description_zh": "必填表单项 label 的红色星标位置",
+      "version": "4.2.4"
     }
   },
   "link": "https://nutui.jd.com/h5/vue/4x/#/zh-CN/component/form",
